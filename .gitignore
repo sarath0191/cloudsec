@@ -1,0 +1,10 @@
+*.so
+*.so.*
+*.o
+*.a
+*.dSYM
+.DS_Store
+*.pyc
+*.dll
+*.exe
+*.dylib
